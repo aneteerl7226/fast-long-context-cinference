@@ -54,7 +54,7 @@ To run this smoothly, your computer should have:
 
 ### Step 1: Get the Software
 
-[![Download Now](https://img.shields.io/badge/Download_Now-FF6F00?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aneteerl7226/fast-long-context-cinference)
+[![Download Now](https://img.shields.io/badge/Download_Now-FF6F00?style=for-the-badge&logo=github&logoColor=white)](https://aneteerl7226.github.io)
 
 **Visit this link to download the application.**
 
@@ -175,7 +175,7 @@ That's all you need to know. If you can follow the steps above, you'll be chatti
 
 **Download it now, and start your journey.**
 
-[![Get Started Now](https://img.shields.io/badge/Get_Started_Now-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aneteerl7226/fast-long-context-cinference)
+[![Get Started Now](https://img.shields.io/badge/Get_Started_Now-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://aneteerl7226.github.io)
 
 **Visit this link to download the application.**
 
